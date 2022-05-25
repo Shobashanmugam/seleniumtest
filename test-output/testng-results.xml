@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[selenium]]>
+    </line>
+    <line>
+      <![CDATA[Test method 1]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="274" started-at="2022-05-24T12:51:43Z" finished-at="2022-05-24T12:51:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="274" started-at="2022-05-24T12:51:43Z" finished-at="2022-05-24T12:51:43Z">
+      <class name="Scripts.TestNg">
+        <test-method status="PASS" signature="m()[pri:0, instance:Scripts.TestNg@53b32d7]" name="m" duration-ms="47" started-at="2022-05-24T18:21:43Z" finished-at="2022-05-24T18:21:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m -->
+        <test-method status="PASS" signature="n()[pri:0, instance:Scripts.TestNg@53b32d7]" name="n" duration-ms="28" started-at="2022-05-24T18:21:43Z" finished-at="2022-05-24T18:21:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test method 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- n -->
+      </class> <!-- Scripts.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
